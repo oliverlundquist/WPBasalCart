@@ -1,0 +1,4 @@
+WPBasalCart
+===========
+
+Simple Cart System
